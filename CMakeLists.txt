@@ -9,4 +9,5 @@ add_executable(so
         "Aula5 - Introducao a processo e compreensao PCB/efeito_zumbi.c"
         "Aula5 - Introducao a processo e compreensao PCB/Aula5 - Threads e escalonamento/race_condition.c"
         "Aula6 - Algoritmos de escalonamento ll - Sincronização de processos e deadlocks/semaforo_bin.c"
-        "Aula6 - Algoritmos de escalonamento ll - Sincronização de processos e deadlocks/semaforo_bin_with_count.c")
+        "Aula6 - Algoritmos de escalonamento ll - Sincronização de processos e deadlocks/semaforo_bin_with_count.c"
+        "Aula6 - Algoritmos de escalonamento ll - Sincronização de processos e deadlocks/jantar_filosofos.c")
